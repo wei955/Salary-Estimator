@@ -10,7 +10,7 @@ Scraped company info and job descriptions from glassdoor.com using python and se
 * Created new variables: min/max/avg salary, city of headquarter, if job location the same as headquarter, age of company, and skills listed in the job description.
 
 ## EDA
-Performed exploratory data analysis for the various categorical variables. 
+Performed exploratory data analysis for the various categorical variables. <br>
 <img src="https://github.com/wei955/Salary-Estimator/blob/master/EDA_Pics/corr.png" height="280">
 <img src="https://github.com/wei955/Salary-Estimator/blob/master/EDA_Pics/location_salary.png" height="280">
 
