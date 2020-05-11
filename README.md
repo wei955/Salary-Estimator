@@ -11,9 +11,9 @@ Scraped company info and job descriptions from glassdoor.com using python and se
 
 ## EDA
 Performed exploratory data analysis for the various categorical variables. 
-<img src="https://github.com/wei955/Salary-Estimator/blob/master/EDA_Pics/corr.png" height="300">
-<img src="https://github.com/wei955/Salary-Estimator/blob/master/EDA_Pics/location_salary.png" height="250">
-<img src="https://github.com/wei955/Salary-Estimator/blob/master/EDA_Pics/title_salary.png" height="220">
+<img src="https://github.com/wei955/Salary-Estimator/blob/master/EDA_Pics/corr.png" height="280">
+<img src="https://github.com/wei955/Salary-Estimator/blob/master/EDA_Pics/location_salary.png" height="220">
+<img src="https://github.com/wei955/Salary-Estimator/blob/master/EDA_Pics/title_salary.png" height="180">
 
 
 ## Model Building
