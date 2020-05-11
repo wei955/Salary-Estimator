@@ -12,6 +12,10 @@ Scraped company info and job descriptions from glassdoor.com using python and se
 ## EDA
 Performed exploratory data analysis for the various categorical variables. 
 
+![alt text](https://github.com/wei955/Salary-Estimator/blob/master/EDA_Pics/corr.png "corr")
+![alt text](https://github.com/wei955/Salary-Estimator/blob/master/EDA_Pics/location_salary.png "location_salary")
+![alt text](https://github.com/wei955/Salary-Estimator/blob/master/EDA_Pics/title_salary.png "title_salary")
+
 ## Model Building
 Split the data into train and tests sets with a test size of 20%, and used three models: Multipul Regression, Lasso Regression, Random Forest. <br>
 Evaluated models using Mean Absolute Error. Used GridsearchCV to reach the best model. The Random Forest model is considered as the best-performed one.
