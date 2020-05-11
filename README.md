@@ -11,10 +11,11 @@ Scraped company info and job descriptions from glassdoor.com using python and se
 
 ## EDA
 Performed exploratory data analysis for the various categorical variables. 
+<img src="https://github.com/wei955/Salary-Estimator/blob/master/EDA_Pics/corr.png" height="24">
+![alt text](https://github.com/wei955/Salary-Estimator/blob/master/EDA_Pics/corr.png "corr")
+![alt text](https://github.com/wei955/Salary-Estimator/blob/master/EDA_Pics/location_salary.png "location_salary")
+![alt text](https://github.com/wei955/Salary-Estimator/blob/master/EDA_Pics/title_salary.png "title_salary")
 
-![alt text](https://github.com/wei955/Salary-Estimator/blob/master/EDA_Pics/corr.png "corr" width=48)
-![alt text](https://github.com/wei955/Salary-Estimator/blob/master/EDA_Pics/location_salary.png "location_salary" width=48)
-![alt text](https://github.com/wei955/Salary-Estimator/blob/master/EDA_Pics/title_salary.png "title_salary" width=48)
 
 ## Model Building
 Split the data into train and tests sets with a test size of 20%, and used three models: Multipul Regression, Lasso Regression, Random Forest. <br>
