@@ -5,9 +5,9 @@ Created a salary estimator for data scientist related jobs.
 Scraped company info and job descriptions from glassdoor.com using python and selenium
 
 ## Data Cleaning
-Parsed: numeric data out of salary, parsed rating out of company names, city out of  headquarter and job description 
-Removed: jobs without salary
-Created new variables: min/max/avg salary, city of headquarter, if job location the same as headquarter, age of company, and skills listed in the job description.
+* Parsed: numeric data out of salary, parsed rating out of company names, city out of  headquarter and job description 
+* Removed: jobs without salary
+* Created new variables: min/max/avg salary, city of headquarter, if job location the same as headquarter, age of company, and skills listed in the job description.
 
 ## EDA
 Performed exploratory data analysis for the various categorical variables. 
@@ -23,8 +23,8 @@ Evaluated models using Mean Absolute Error. Used GridsearchCV to reach the best 
 Built a flask API endpoint that was hosted on a local webserver. The API endpoint takes in a request with a list of values from a job listing and returns an estimated salary.
 
 ## Reference:
-Code: https://github.com/arapfaik/scraping-... 
-Article: https://towardsdatascience.com/seleni...
-FlaskAPI: https://towardsdatascience.com/productionize-a-machine-learning-model-with-flask-and-heroku-8201260503d2
-google chrome: https://chromedriver.chromium.org/
+* Web Scraper Code: https://github.com/arapfaik/scraping-... 
+* Article: https://towardsdatascience.com/seleni...
+* FlaskAPI tutorial: https://towardsdatascience.com/productionize-a-machine-learning-model-with-flask-and-heroku-8201260503d2
+* Google chromedrive download: https://chromedriver.chromium.org/
 
